@@ -9,16 +9,20 @@ In this project,
 
 ## Graphs: 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="COMP110_Proposal/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-<img src= "C:\Users\fjing\OneDrive - University of North Carolina at Chapel Hill\UNC STUFF\Year 2\Semester 2\COMP110\personal-site.github.io\static\imgs/logo.png"
-alt="Graph 1"
-width="500"/>
+
+
 
 
 
 
 This is basic paragraph text.
+In conclusion, the data seems to support the proposal that we should have more lesson time dedicated to data/coding ethics. Overall, the data suggests that students seem to find themselves in an environment that is increasingly determined/interfered with by data, and that there is strong concern/interest with regards to how societal/outside influences may impact research/coding. When looking at this sentiment further, the data suggests that there is strong belief in the overall objectivity/objective capacity for the CS field, Algorithms, and Researchers. However, the data also suggests a weak belief in the reliability of empirical data and a strong belief in the susceptibility of scientific research to outside bias. These trends seem to suggest that students believe in the overall capacity for research/data to be objective, but feel that in practice, bias has a strong influence on research/data. This trend was further supported by an analysis of the relation between students' belief on the impact of societal issues and bias in research and data, wherein the data suggests that as student feel societal issues are more important to CompSci, they feel empirical data is less reliable and that research is more susceptible to bias.
+
+
+
+
 
 ## Conclusion
 
