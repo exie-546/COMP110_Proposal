@@ -14,15 +14,21 @@ In this project, I proposed that COMP110 should include more lesson time dedicat
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
 
+
 <img src="/COMP110_Proposal/static/imgs/SocialRelevance.png" alt="Image of Social Relevance Histogram. "  width="500"/>
+
 Figure one: Student's sentiment on how relevant social issues are to computer scientists & data engineers
 
 
+
 <img src="/COMP110_Proposal/static/imgs/ResearchBias.png" alt="Image of Research Bias Histogram. "  width="500"/>
+
 Figure two: Student's sentiment on how susceptible scientific research is to outside bias
 
 
+
 <img src="/COMP110_Proposal/static/imgs/HeatMap.png" alt="Image of Heat map. "  width="500"/>
+
 Figure three: Heat Map showing relation between importance of social issues & perceived suceptibility of research
 
 
